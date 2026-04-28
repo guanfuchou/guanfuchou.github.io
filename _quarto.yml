@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Guan-Fu Chou"
+  description: "PhD Student in Higher Education at the University of Michigan"
+  site-url: "https://guanfuchou.github.io"
+  repo-url: "https://github.com/guanfuchou/guanfuchou.github.io"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/guanfuchou
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:gfchou@umich.edu
+        aria-label: Email
+
+  page-footer:
+    left: "© 2026 Guan-Fu Chou"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    fontsize: 1.05em
+    linkcolor: "#00274C"
+    mainfont: "Source Sans Pro, system-ui, sans-serif"

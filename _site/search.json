@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A current PDF of my CV is available here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan, Ann Arbor, MI Ph.D. Student, Higher Education (CSHPE), 2025–Present Supervisor: Dr. Jeremy Wright-Kim\nNational Chengchi University, Taipei, Taiwan M.A. in Economics, 2024 B.Ed. (Minor in Economics); B.A. in Chinese Literature, 2021"
+  },
+  {
+    "objectID": "cv.html#fellowships-and-awards",
+    "href": "cv.html#fellowships-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "Fellowships and Awards",
+    "text": "Fellowships and Awards\n\nEducation Policy Initiative (EPI) Predoctoral Fellowship, Gerald R. Ford School of Public Policy, University of Michigan, 2026\nSarri Family Fellowship for Research on Educational Attainment of Youth in Low Income Families, Institute for Social Research, University of Michigan, 2026\nRackham ISR Summer Training Award, University of Michigan, 2026"
+  },
+  {
+    "objectID": "cv.html#working-papers",
+    "href": "cv.html#working-papers",
+    "title": "Curriculum Vitae",
+    "section": "Working Papers",
+    "text": "Working Papers\nSee the Research page."
+  },
+  {
+    "objectID": "cv.html#affiliations",
+    "href": "cv.html#affiliations",
+    "title": "Curriculum Vitae",
+    "section": "Affiliations",
+    "text": "Affiliations\n\nAssociation for Education Finance and Policy (AEFP)\nAssociation for Public Policy Analysis and Management (APPAM)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email.\nEmail: gfchou@umich.edu\nMailing address: Center for the Study of Higher and Postsecondary Education University of Michigan, School of Education 610 East University Avenue Ann Arbor, MI 48109"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the intersection of higher education finance and labor economics, with two main strands: (1) institutional pricing and the equity consequences of how colleges report Cost of Attendance, and (2) whether states are producing postsecondary credentials aligned with high-quality labor market opportunity."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nDo Neighbors Shape the Sticker Price? Spatial Spillovers in Institutional Cost of Attendance Reporting\nChou, G.-F. (2026). Working paper.\nThis paper examines whether institutions adjust their reported Cost of Attendance in response to nearby peer institutions, and whether such spatial spillovers are associated with student loan default rates at high-Pell institutions. I draw on IPEDS panel data and apply spatial econometric methods to identify geographic clustering in COA reporting.\nDraft available upon request.\n\n\n\nAre States Producing Graduates for Good Jobs? A Sub-Baccalaureate Alignment Analysis\nWright-Kim, J., & Chou, G.-F. (2026). Working paper.\nUsing a nine-year, 50-state panel that links IPEDS completion data to BLS occupational projections, this paper assesses whether states are producing sub-baccalaureate graduates aligned with well-paying, in-demand occupations. We test multiple definitions of alignment using Advance CTE crosswalks, MIT Living Wage thresholds, and O*NET Bright Outlook criteria.\nDraft available upon request."
+  },
+  {
+    "objectID": "research.html#ongoing-projects",
+    "href": "research.html#ongoing-projects",
+    "title": "Research",
+    "section": "Ongoing Projects",
+    "text": "Ongoing Projects\nA list of projects in earlier stages will appear here as they develop."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nChou, G.-F. (2024, October). The impact of positive emotion, positive traits, and institutions on math achievement: A hierarchical linear modeling study. International Conference on Affective Education. Taipei, Taiwan.\nChou, G.-F. (2023, December). Can attending colleges in the Taipei metropolitan area benefit wages? Poster presented at the Annual Conference of the Taiwan Economic Association. New Taipei City, Taiwan."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guan-Fu Chou",
+    "section": "",
+    "text": "I am a PhD student at the Center for the Study of Higher and Postsecondary Education (CSHPE) at the University of Michigan, where I work with Dr. Jeremy Wright-Kim. I am also an incoming Predoctoral Fellow at the Education Policy Initiative (EPI) at the Gerald R. Ford School of Public Policy.\nMy research uses applied causal inference and large administrative datasets to study how institutional pricing decisions and financial aid structures shape postsecondary access, and how postsecondary credential production aligns with labor market opportunity. A common throughline across my work is the role of accurate signals: whether the prices students see, the credentials states produce, and the data institutions report give students and policymakers the information they need to make good decisions.\nBefore coming to Michigan, I earned an M.A. in Economics from National Chengchi University in Taipei, where my thesis used matching estimators to study returns to college selectivity and location. I previously worked as a research assistant at Taiwan’s National Academy for Educational Research."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Guan-Fu Chou",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHigher education finance and financial aid policy\nPostsecondary–labor market alignment\nInstitutional pricing and Cost of Attendance\nApplied causal inference and microeconometric methods"
+  }
+]

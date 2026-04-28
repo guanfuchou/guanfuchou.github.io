@@ -1,0 +1,34 @@
+---
+title: "Curriculum Vitae"
+---
+
+A current PDF of my CV is available [here](Chou_GuanFu_CV.pdf).
+
+::: {.callout-note}
+Last updated: April 2026
+:::
+
+## Education
+
+**University of Michigan**, Ann Arbor, MI
+*Ph.D. Student, Higher Education (CSHPE)*, 2025--Present
+Supervisor: Dr. Jeremy Wright-Kim
+
+**National Chengchi University**, Taipei, Taiwan
+*M.A. in Economics*, 2024
+*B.Ed. (Minor in Economics); B.A. in Chinese Literature*, 2021
+
+## Fellowships and Awards
+
+- Education Policy Initiative (EPI) Predoctoral Fellowship, Gerald R. Ford School of Public Policy, University of Michigan, 2026
+- Sarri Family Fellowship for Research on Educational Attainment of Youth in Low Income Families, Institute for Social Research, University of Michigan, 2026
+- Rackham ISR Summer Training Award, University of Michigan, 2026
+
+## Working Papers
+
+See the [Research](research.qmd) page.
+
+## Affiliations
+
+- Association for Education Finance and Policy (AEFP)
+- Association for Public Policy Analysis and Management (APPAM)

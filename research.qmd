@@ -1,0 +1,34 @@
+---
+title: "Research"
+---
+
+My research sits at the intersection of higher education finance and labor economics, with two main strands: (1) institutional pricing and the equity consequences of how colleges report Cost of Attendance, and (2) whether states are producing postsecondary credentials aligned with high-quality labor market opportunity.
+
+## Working Papers
+
+### Do Neighbors Shape the Sticker Price? Spatial Spillovers in Institutional Cost of Attendance Reporting
+
+**Chou, G.-F.** (2026). *Working paper.*
+
+This paper examines whether institutions adjust their reported Cost of Attendance in response to nearby peer institutions, and whether such spatial spillovers are associated with student loan default rates at high-Pell institutions. I draw on IPEDS panel data and apply spatial econometric methods to identify geographic clustering in COA reporting.
+
+*Draft available upon request.*
+
+---
+
+### Are States Producing Graduates for Good Jobs? A Sub-Baccalaureate Alignment Analysis
+
+Wright-Kim, J., & **Chou, G.-F.** (2026). *Working paper.*
+
+Using a nine-year, 50-state panel that links IPEDS completion data to BLS occupational projections, this paper assesses whether states are producing sub-baccalaureate graduates aligned with well-paying, in-demand occupations. We test multiple definitions of alignment using Advance CTE crosswalks, MIT Living Wage thresholds, and O*NET Bright Outlook criteria.
+
+*Draft available upon request.*
+
+## Ongoing Projects
+
+A list of projects in earlier stages will appear here as they develop.
+
+## Conference Presentations
+
+- **Chou, G.-F.** (2024, October). *The impact of positive emotion, positive traits, and institutions on math achievement: A hierarchical linear modeling study.* International Conference on Affective Education. Taipei, Taiwan.
+- **Chou, G.-F.** (2023, December). *Can attending colleges in the Taipei metropolitan area benefit wages?* Poster presented at the Annual Conference of the Taiwan Economic Association. New Taipei City, Taiwan.
