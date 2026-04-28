@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Working papers and ongoing research projects on higher education finance, institutional pricing, and postsecondary-labor market alignment."
 ---
 
 My research sits at the intersection of higher education finance and labor economics, with two main strands: (1) institutional pricing and the equity consequences of how colleges report Cost of Attendance, and (2) whether states are producing postsecondary credentials aligned with high-quality labor market opportunity.

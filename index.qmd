@@ -1,6 +1,7 @@
 ---
 title: "Guan-Fu Chou"
 subtitle: "PhD Student, Higher Education"
+description: "PhD student in Higher Education at the University of Michigan, researching financial aid policy, institutional pricing, and postsecondary-labor market alignment."
 about:
   template: trestles
   image: profile.jpg

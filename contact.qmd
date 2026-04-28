@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Contact information for Guan-Fu Chou at the University of Michigan."
 ---
 
 The best way to reach me is by email.
