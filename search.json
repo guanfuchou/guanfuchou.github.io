@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "A current PDF of my CV is available here."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nUniversity of Michigan, Ann Arbor, MI Ph.D. Student, Higher Education (CSHPE), 2025–Present Supervisor: Dr. Jeremy Wright-Kim\nNational Chengchi University, Taipei, Taiwan M.A. in Economics, 2024 B.Ed. (Minor in Economics); B.A. in Chinese Literature, 2021"
-  },
-  {
-    "objectID": "cv.html#fellowships-and-awards",
-    "href": "cv.html#fellowships-and-awards",
-    "title": "Curriculum Vitae",
-    "section": "Fellowships and Awards",
-    "text": "Fellowships and Awards\n\nEducation Policy Initiative (EPI) Predoctoral Fellowship, Gerald R. Ford School of Public Policy, University of Michigan, 2026\nSarri Family Fellowship for Research on Educational Attainment of Youth in Low Income Families, Institute for Social Research, University of Michigan, 2026\nRackham ISR Summer Training Award, University of Michigan, 2026"
-  },
-  {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
-    "title": "Curriculum Vitae",
-    "section": "Working Papers",
-    "text": "Working Papers\nSee the Research page."
-  },
-  {
-    "objectID": "cv.html#affiliations",
-    "href": "cv.html#affiliations",
-    "title": "Curriculum Vitae",
-    "section": "Affiliations",
-    "text": "Affiliations\n\nAssociation for Education Finance and Policy (AEFP)\nAssociation for Public Policy Analysis and Management (APPAM)"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -68,6 +33,41 @@
     "title": "Research",
     "section": "Conference Presentations",
     "text": "Conference Presentations\n\nChou, G.-F. (2024, October). The impact of positive emotion, positive traits, and institutions on math achievement: A hierarchical linear modeling study. International Conference on Affective Education. Taipei, Taiwan.\nChou, G.-F. (2023, December). Can attending colleges in the Taipei metropolitan area benefit wages? Poster presented at the Annual Conference of the Taiwan Economic Association. New Taipei City, Taiwan."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A current PDF of my CV is available here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan, Ann Arbor, MI Ph.D. Student, Higher Education (CSHPE), 2025–Present Supervisor: Dr. Jeremy Wright-Kim\nNational Chengchi University, Taipei, Taiwan M.A. in Economics, 2024 B.Ed. (Minor in Economics); B.A. in Chinese Literature, 2021"
+  },
+  {
+    "objectID": "cv.html#fellowships-and-awards",
+    "href": "cv.html#fellowships-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "Fellowships and Awards",
+    "text": "Fellowships and Awards\n\nEducation Policy Initiative (EPI) Predoctoral Fellowship, Gerald R. Ford School of Public Policy, University of Michigan, 2026\nSarri Family Fellowship for Research on Educational Attainment of Youth in Low Income Families, Institute for Social Research, University of Michigan, 2026\nRackham ISR Summer Training Award, University of Michigan, 2026"
+  },
+  {
+    "objectID": "cv.html#working-papers",
+    "href": "cv.html#working-papers",
+    "title": "Curriculum Vitae",
+    "section": "Working Papers",
+    "text": "Working Papers\nSee the Research page."
+  },
+  {
+    "objectID": "cv.html#affiliations",
+    "href": "cv.html#affiliations",
+    "title": "Curriculum Vitae",
+    "section": "Affiliations",
+    "text": "Affiliations\n\nAssociation for Education Finance and Policy (AEFP)\nAssociation for Public Policy Analysis and Management (APPAM)"
   },
   {
     "objectID": "index.html",
