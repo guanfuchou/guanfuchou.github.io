@@ -13,9 +13,6 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/guanfuchou
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.com/
     - icon: file-earmark-text
       text: CV
       href: cv.qmd
