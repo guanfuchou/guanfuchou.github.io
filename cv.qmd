@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-A current PDF of my CV is available **[here]**(Chou_GuanFu_CV.pdf).
+A current PDF of my CV is available **[here](Chou_GuanFu_CV.pdf)**.
 
 ::: {.callout-note}
 Last updated: April 2026
