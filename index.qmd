@@ -17,6 +17,9 @@ about:
     - icon: file-earmark-text
       text: CV
       href: cv.qmd
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0009-0005-2055-8188
 ---
 
 I am a PhD student at the [Center for the Study of Higher and Postsecondary Education](https://soe.umich.edu/areas-study/center-study-higher-and-postsecondary-education) (CSHPE) at the University of Michigan, where I work with [Dr. Jeremy Wright-Kim](https://soe.umich.edu/people/jeremy-wright-kim). I am also an incoming Predoctoral Fellow at the [Education Policy Initiative](https://edpolicy.umich.edu) (EPI) at the Gerald R. Ford School of Public Policy.
