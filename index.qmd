@@ -22,11 +22,11 @@ about:
       href: https://orcid.org/0009-0005-2055-8188
 ---
 
-I am a PhD student at the [Center for the Study of Higher and Postsecondary Education](https://soe.umich.edu/areas-study/center-study-higher-and-postsecondary-education) (CSHPE) at the University of Michigan, where I work with [Dr. Jeremy Wright-Kim](https://soe.umich.edu/people/jeremy-wright-kim). I am also an incoming Predoctoral Fellow at the [Education Policy Initiative](https://edpolicy.umich.edu) (EPI) at the Gerald R. Ford School of Public Policy.
+I am a PhD student at the [Center for the Study of Higher and Postsecondary Education](https://soe.umich.edu/areas-study/center-study-higher-and-postsecondary-education) (CSHPE) at the University of Michigan, where I work with **[Dr. Jeremy Wright-Kim](https://marsal.umich.edu/directory/faculty-staff/jeremy-wright-kim)** and **[Dr. Walter Ecton](https://marsal.umich.edu/directory/faculty-staff/walter-ecton)**. I am also an incoming Predoctoral Fellow at the [Education Policy Initiative](https://edpolicy.umich.edu) (EPI) at the Gerald R. Ford School of Public Policy.
 
 My research uses applied causal inference and large administrative datasets to study how institutional pricing decisions and financial aid structures shape postsecondary access, and how postsecondary credential production aligns with labor market opportunity. A common throughline across my work is the role of accurate signals: whether the prices students see, the credentials states produce, and the data institutions report give students and policymakers the information they need to make good decisions.
 
-Before coming to Michigan, I earned an M.A. in Economics from National Chengchi University in Taipei, where my thesis used matching estimators to study returns to college selectivity and location. I previously worked as a research assistant at Taiwan's National Academy for Educational Research.
+Before coming to Michigan, I earned an M.A. in Economics from National Chengchi University in Taipei. I previously worked as a research assistant at Taiwan's National Academy for Educational Research.
 
 ## Research Interests
 
