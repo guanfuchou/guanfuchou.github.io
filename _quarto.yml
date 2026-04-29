@@ -9,7 +9,6 @@ website:
   description: "Personal website of Guan-Fu Chou, PhD student in Higher Education at the University of Michigan. Research on higher education finance, financial aid policy, and postsecondary-labor market alignment."
   site-url: "https://guanfuchou.github.io"
   repo-url: "https://github.com/guanfuchou/guanfuchou.github.io"
-  sitemap: true
 
   open-graph:
     locale: en_US

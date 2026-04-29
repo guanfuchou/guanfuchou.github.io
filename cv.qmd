@@ -3,20 +3,18 @@ title: "Curriculum Vitae"
 description: "Curriculum vitae of Guan-Fu Chou, PhD student at the University of Michigan's Center for the Study of Higher and Postsecondary Education."
 ---
 
-A current PDF of my CV is available [here](Chou_GuanFu_CV.pdf).
+[Download CV (PDF)](Chou_GuanFu_CV.pdf){.btn .btn-primary role="button"}
 
-::: {.callout-note}
-Last updated: April 2026
-:::
+*Last updated: April 2026*
 
 ## Education
 
-**University of Michigan**, Ann Arbor, MI
-*Ph.D. Student, Higher Education (CSHPE)*, 2025--Present
-Supervisor: Dr. Jeremy Wright-Kim
+**University of Michigan**, Ann Arbor, MI<br>
+*Ph.D. Student, Higher Education (CSHPE)*, 2025--Present<br>
+*Supervisor:* Dr. Jeremy Wright-Kim
 
-**National Chengchi University**, Taipei, Taiwan
-*M.A. in Economics*, 2024
+**National Chengchi University**, Taipei, Taiwan<br>
+*M.A. in Economics*, 2024<br>
 *B.Ed. (Minor in Economics); B.A. in Chinese Literature*, 2021
 
 ## Fellowships and Awards
