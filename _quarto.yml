@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "google*.html"
 
 website:
   title: "Guan-Fu Chou"
