@@ -5,7 +5,7 @@ description: "Curriculum vitae of Guan-Fu Chou, PhD student at the University of
 
 [Download CV (PDF)](Chou_GuanFu_CV.pdf){.btn .btn-primary role="button"}
 
-*Last updated: April 2026*
+*Last updated: June 2026*
 
 ## Education
 
@@ -19,6 +19,7 @@ description: "Curriculum vitae of Guan-Fu Chou, PhD student at the University of
 
 ## Fellowships and Awards
 
+- Government Scholarship for Study Abroad, Ministry of Education, Taiwan
 - Education Policy Initiative (EPI) Predoctoral Fellowship, Gerald R. Ford School of Public Policy, University of Michigan, 2026
 - Sarri Family Fellowship for Research on Educational Attainment of Youth in Low Income Families, Institute for Social Research, University of Michigan, 2026
 - Rackham ISR Summer Training Award, University of Michigan, 2026
