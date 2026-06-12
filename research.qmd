@@ -7,9 +7,9 @@ My research sits at the intersection of higher education finance and labor econo
 
 ## Working Papers
 
-### Do Neighbors Shape the Sticker Price? Spatial Spillovers in Institutional Cost of Attendance Reporting
+### Do Neighbors Shape the Sticker Price? Spatial Competition and State Funding in Cost of Attendance Reporting Over Time
 
-**Chou, G.-F.** (2026). *Working paper.*
+**Chou, G.-F.** & Wright-Kim, J. (2026). *Do Neighbors Shape the Sticker Price? Spatial Competition and State Funding in Cost of Attendance Reporting Over Time.* (EdWorkingPaper: 26-1499). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/chfk-a128
 
 This paper examines whether institutions adjust their reported Cost of Attendance in response to nearby peer institutions, and whether such spatial spillovers are associated with student loan default rates at high-Pell institutions. I draw on IPEDS panel data and apply spatial econometric methods to identify geographic clustering in COA reporting.
 
