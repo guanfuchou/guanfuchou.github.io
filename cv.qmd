@@ -5,7 +5,7 @@ description: "Curriculum vitae of Guan-Fu Chou, PhD student at the University of
 
 [Download CV (PDF)](Chou_GuanFu_CV.pdf){.btn .btn-primary role="button"}
 
-*Last updated: June 2026*
+*Last updated: July 2026*
 
 ## Education
 
@@ -32,3 +32,6 @@ See the [Research](research.qmd) page.
 
 - Association for Education Finance and Policy (AEFP)
 - Association for Public Policy Analysis and Management (APPAM)
+- Association for the Study of Higher Education (ASHE)
+- Society for Research on Educational Effectiveness (SREE)
+- American Economic Association (AEA)
